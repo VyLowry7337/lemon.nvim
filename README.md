@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Much like dbab.nvim also being hosted here, I am simply uploading this repository to continue
+> use of the plugins made by __Zerochae__, before his GitHub account had disappeared.
+
 # lemon.nvim
 
 \[L\]SP \[E\]asy \[M\]ore \[O\]n \[N\]eovim
